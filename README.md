@@ -1,3 +1,7 @@
+## Project is ongoing
+
+...
+
 # AI Multi-Agent Platform V1
 
 > Modular, scalable AI platform with multiple agents collaborating to solve complex tasks — from recommendations to data analysis.
